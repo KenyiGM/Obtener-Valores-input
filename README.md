@@ -1,6 +1,6 @@
 # Obtener_Valores_Input
 
-Esta herramienta permite obtener valores de un input.
+Esta herramienta permite obtener valores de un input y lo convierte en una lista.
 
 # Requerimientos
 
